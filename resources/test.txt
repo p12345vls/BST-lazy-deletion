@@ -1,0 +1,10 @@
+add milk
+add soup
+add apples
+add tomato
+add eggplant
+buy milk
+buy apples
+buy soup
+buy tomato
+buy eggplant
